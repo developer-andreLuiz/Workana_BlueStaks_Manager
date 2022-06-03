@@ -1,0 +1,3 @@
+Intervalo de Minutos=5
+Emuladores Simultâneos=1
+Caminho BlueStacks=C:\Program Files\BlueStacks_nxt\HD-Player.exe

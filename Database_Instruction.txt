@@ -1,0 +1,10 @@
+﻿﻿ENTITY FRAMEWORK CORE SQLLITE
+
+*INSTLALL 
+-EntityFrameworkCore
+-Microsoft.EntityFrameworkCore.Design
+-Microsoft.EntityFrameworkCore.Tools
+-Microsoft.EntityFrameworkCore.Sqlite
+*DIGITAR NO CONSOLE DO GERENCIADOR DE PACOTES
+
+Scaffold-DbContext "DataSource=Database\\banco.db" Microsoft.EntityFrameworkCore.Sqlite -OutputDir Models -f -Context DBContextDAO
