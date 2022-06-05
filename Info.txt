@@ -5,4 +5,3 @@
 "C:\Program Files\BlueStacks_nxt\HD-Player.exe" --instance Nougat32_5
 "C:\Program Files\BlueStacks_nxt\HD-Player.exe" --instance Nougat32_6
 C:\Users\Developer\Desktop\Device01.lnk
-$(MSBuildProjectName)
